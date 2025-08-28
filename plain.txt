@@ -1,10 +1,6 @@
 __hi there! you've reached my site__
 
-this site is a plain .txt file, not a standard web page.
-
-plain text means it loads instantly and uses hardly any energy, good for both you and the planet :d without scripts or trackers it's safe to browse. 
-
-the charm of these files is that they can't be styled! it's the internet stripped down to its simplest form, and that feels good.
+this site is a plain .txt file, not a standard web page. plain text means it loads instantly and uses hardly any energy, good for both you and the planet :d without scripts or trackers it's safe to browse. the charm of these files is that they can't be styled! it's the internet stripped down to its simplest form, and that feels good.
 what you see here is exactly what's here: just words.         
                                     
 so, welcome to my life in plain text!
